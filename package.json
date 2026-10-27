@@ -1,0 +1,10 @@
+{
+  "name": "appavi-key-server",
+  "version": "1.0.0",
+  "description": "APPAVI licence key generator + validator (7 / 15 / 30 days / lifetime, one key = one device)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
